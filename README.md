@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m @kinycx
+# 👋 Hey there! I’m @k33wee
 
 - 👀 Passionate about music, video games, graphics, 3D printing and software developing.
 - 💻 I love python and linux. I mainly work with python and node (ts).
