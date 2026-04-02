@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m @k33wee
 
-- 👀 Passionate about **Music**, **Video Games**, **Graphics**, **3D Printing**, and **Software Development**.
+- 👀 Passionate about **Music** (mostly electronic and metal), **Video Games** (Tekken and any fromsoftware title), **Graphics**, **3D Printing**, and **Software Development**.
 - 💻 I'm a **Linux** enthusiast who loves **Python**.
 - 🛠️ Daily drivers: **Python**, **Node.js (TypeScript)**, and **SQL**.
 - 🌱 Currently diving deep into **Rust**, **Next.js** and mastering **Neovim** (Lua config).
@@ -15,6 +15,7 @@
   <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/></a>
   <a href="https://bun.sh/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>
