@@ -1,8 +1,8 @@
 # 👋 Hey there! I’m @k33wee
 
-- 👀 Passionate about **Music** (mostly electronic and metal), **Video Games** (Tekken and any fromsoftware title), **Graphics**, **3D Printing**, and **Software Development**.
-- 💻 I'm a **Linux** enthusiast who loves **Python**.
-- 🛠️ Daily drivers: **Python**, **Node.js (TypeScript)**, and **SQL**.
+- 👀 Passionate about **Music** (mostly electronic and metal), **Video Games** (Tekken and any fromsoftware title), **Graphics**, **3D Printing**, and (you guessed it) **Software Development**.
+- 💻 I'm a **Linux** enthusiast who loves **Python**, I don't use Arch btw (yet).
+- 🛠️ Daily drivers: **Python**, **Node.js (TypeScript)**, **God complex** and **Imposter syndrome**.
 - 🌱 Currently diving deep into **Rust**, and mastering **Neovim**.
 
 ---
