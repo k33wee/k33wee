@@ -1,9 +1,9 @@
-# 👋 Hey there! I’m @k33wee
+# Hey there! I’m @k33wee 👋
 
-- 👀 Passionate about **Music** (mostly electronic and metal), **Video Games** (Tekken and any fromsoftware title), **Graphics**, **3D Printing**, and (you guessed it) **Software Development**.
-- 💻 I'm a **Linux** enthusiast who loves **Python**, I don't use Arch btw (yet).
-- 🛠️ Daily drivers: **Python**, **Node.js (TypeScript)**, **God complex** and **Imposter syndrome**.
-- 🌱 Currently diving deep into **Rust**, and mastering **Neovim**.
+- Passionate about **Music** (mostly electronic and metal), **Video Games** (Tekken and any fromsoftware title), **Graphics**, **Animation**, and (you guessed it) **Software Development**.
+- I'm a **Linux** enthusiast who loves **open source** and deeply grossed out by subscriptions and enshittification in software, I don't use Arch btw (yet).
+- I like **AI** (intended as LLMs) as a tool, and I'm an AI myself (Actual Italian 🇮🇹), but I **hate** the companies behind most frontier models.
+- Daily drivers: **Python**, **Rust**, **Node.js (TypeScript)**, **God complex** and **Imposter syndrome**.
 
 ---
 
@@ -16,15 +16,13 @@
 | **Infrastructure & OS**  | <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/></a> <a href="https://system76.com/cosmic"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/system76.svg" width="35"/></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/></a> <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/></a>                                                                                                                                          |
 | **Editor**               | <a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="35"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
----
 
-<p align="start">
- <a href="https://github-readme-stats-eight-theta.vercel.app">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=k33wee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📈 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k33wee&theme=radical)
 
- </a>
- </p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k33wee&theme=radical)
+
  
 <!---
 kinycx/kinycx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
